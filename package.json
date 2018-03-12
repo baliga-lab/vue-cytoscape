@@ -1,0 +1,19 @@
+{
+  "name": "vue-cytoscape",
+  "version": "1.0.0",
+  "description": "Vue component for visualizing networks with Cytoscape.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs",
+    "cytoscape.js"
+  ],
+  "author": "Wei-ju Wu",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "vue": "^2.4.2",
+    "cytoscape": "^3.2.3"
+  }
+}
